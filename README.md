@@ -1,3 +1,9 @@
+# DEPRECATED: THIS CODE IS DEPRECATED AND UNMAINTAINED! THEREFORE WE ARCHIVED REPOSITORY!
+# KOLAMA.NET WAS CLOSED 2 YEARS AGO - FOR PRODUCTION PERMISSION ON CONTINUED MAINTENANCE OF CODE PERMISSION PLEASE MAIL ME
+# noname@eclipsesystems.top - THANKS!
+## In some placed AI was used - please note that code might be unstable.
+### I was 14 when this code was made so don't judge :D
+
 # KolamaBot
 ### Release: v0.3
 ## A very useful bot for Kolama.Net, making moderation easy to configure and got some extra futures that we need
