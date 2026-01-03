@@ -1,39 +1,70 @@
-# DEPRECATED: THIS CODE IS DEPRECATED AND UNMAINTAINED! THEREFORE WE ARCHIVED REPOSITORY!
-# KOLAMA.NET WAS CLOSED 2 YEARS AGO - FOR PRODUCTION PERMISSION OR CONTINUED MAINTENANCE OF CODE PERMISSION PLEASE MAIL ME
-# noname@eclipsesystems.top - THANKS!
-## In some placed AI was used - please note that code might be unstable.
-### I was 14 when this code was made so don't judge :D
+# KolamaBot — DEPRECATED & ARCHIVED
 
-# KolamaBot
-### Release: v0.3
-## A very useful bot for Kolama.Net, making moderation easy to configure and got some extra futures that we need
-## License: https://github.com/PlurrYT-Kolama/KolamaBot/blob/main/LICENSE.txt
+This repository is no longer maintained.
+KolamaBot has been fully deprecated and the project has been archived.
 
-### Fun fact: we store node_modules due we run code without installing any stuff on server and due our repository contains legacy npm packages what were heavily src edited to work fine :) 
+Kolama.Net was closed 2 years ago.
+For production usage permission or continued maintenance rights, please contact:  
+noname@eclipsesystems.top
 
-## How to install?
-firstly be sure you use this for personal / private project for your friends
-Just clone repo and install node.js v21.x with npm
-Run node main.js or node . | **dont run npm i**
-Please note that you will need to edit code and mention all changes what you made and do credits
-credits must contain link to license and contributors.
-After that you must edit .env by adding `token=bottoken`
-After .env edit config.json fully! Any non edited parameter can cause issues!
-you can choose to toggle debug mode as it's on by default
-Debug mode doesn't spam or so it just notifies about non critical errors that happened while loading a command
-**PLEASE DONT CHANGE ANY FILE LISTED IN LICENSE! 
-ALSO PLACE BOT IN A SPERATE FOLDER THAT IS AWAY FROM ANY OTHER FILES LIKE PERSONAL PHOTOS OR OTHER CODES!
-IF YOU DON'T DO THIS YOUR DATA MIGHT GET SUSPECTED OR OUR API WILL FALSE DETECT YOUR BOT IN BANNED LIST!**
+Some parts of this code were assisted by AI.
+Please note that the code may be unstable.
+This project was originally created when I was 14 - please dont judge too hard :3
 
+---
 
-## How to edit code?
-Simply make any changes you want to do, We recommand using node 21 or greater with discord.js v14, then simply just send a pull request with a quick description of what you did, any new additions and npm modules or different tools etc!
+## Project Status
+KolamaBot (Release v0.3) served as a moderation and utility bot for Kolama.Net, featuring configurable moderation tools and several custom features.
 
-## Note
+This repository is now **archived** and **no longer receives updates, fixes, or support**.
 
-This is the official Kolama.Net Bot source code!
-This botis strictly for personal usage, DO NOT USE IT IN A PUBLIC BOT, don't forget to include credits aka follow license
-Hopefully you will like this code we were working hard for it
+The project has been **moved and continued under a new name and license**:
 
-## Contributors
-Contributors: Bob (mynameisbob1928) PlurrYT (plurryt) SkyOPG (https://github.com/SkyOPG)
+➡ New Repository:  
+https://github.com/thenoname-gurl/EclipseBot/tree/main
+
+➡ New License applies in the new repository which may statisfy your needs better than old one.
+
+---
+
+## Legacy Installation Notes (For Historical Reference Only)
+
+If you are reviewing this repository for personal, private, or educational purposes:
+
+- Clone the repo and use Node.js v21.x with npm.
+- Run the bot using:
+  `node main.js` or `node .`
+  **Do NOT run `npm i`** - legacy `node_modules` are included because they contain heavily modified packages.
+- Edit the code as needed and credit all contributors.
+- Add your bot token in `.env` as:
+  `token=bottoken`
+- Fully configure `config.json`. Missing values may cause issues.
+- Debug mode is enabled by default and reports non‑critical load errors.
+
+**Important:**
+Do not modify files listed in the license.
+Run the bot in a separate folder away from personal files.
+Incorrect placement may cause false positives in our API’s automated checks.
+
+---
+
+## Editing the Code (Legacy)
+You may modify the code for private use.
+We recommended Node.js 21+ and discord.js v14.
+Pull requests were accepted with descriptions of changes, additions, or new modules.
+
+---
+
+## Contributors (Historical)
+- Bob (mynameisbob1928)
+- PlurrYT (plurryt)
+- SkyOPG (https://github.com/SkyOPG)
+
+---
+
+## Final Note
+This repository remains available for historical and educational purposes only.
+For the actively maintained successor project, please visit:
+
+**EclipseBot**
+https://github.com/thenoname-gurl/EclipseBot/tree/main
